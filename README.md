@@ -53,34 +53,6 @@ Mode: CBC (Cipher Block Chaining)
 Key Size: 256 bits (32 bytes)
 
 Library Used: PyCryptodome
-
-📸 Screenshots
-You can add screenshots here such as:
-
-Homepage 
-![task 3 1](https://github.com/user-attachments/assets/c74d3a08-2e86-4c7f-91d2-19fef89dc7bd)
-
-
-
-
-
-Flask app running on localhost:
-![task 3 2 1](https://github.com/user-attachments/assets/19ebbc66-8046-4a94-9f48-99a2f32822d0)
-
-
-
-Encryption key download prompt
-<img width="1718" height="912" alt="image" src="https://github.com/user-attachments/assets/d1ed655d-ea21-4b4f-929e-15c2680ca478" />
-
-
-
-
-
-
-
-
-
-
 🧑‍💻 Developed by
 Saumyata Nepal
 Intern @ Future Interns
