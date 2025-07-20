@@ -40,11 +40,11 @@ Make sure you have Python 3 installed.
 
 bash
 pip install flask pycryptodome
-3. Run the application
-bash
+3. Run the application in bash
 python app.py
 Open your browser and go to:
 http://127.0.0.1:5000
+
 🔐 Encryption Details
 Algorithm: AES (Advanced Encryption Standard)
 
@@ -53,6 +53,8 @@ Mode: CBC (Cipher Block Chaining)
 Key Size: 256 bits (32 bytes)
 
 Library Used: PyCryptodome
+
+
 🧑‍💻 Developed by
 Saumyata Nepal
 Intern @ Future Interns
