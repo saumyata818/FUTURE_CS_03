@@ -1,10 +1,10 @@
-# 🔐 Secure File Sharing System
+#  Secure File Sharing System
 
 A simple and secure web application built with Flask that allows users to upload and download files with AES encryption. Developed as part of **Future Interns - Cyber Security Task 3** by **Saumyata Nepal**.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 secure_file_sharing/
 ├── app.py # Main Flask application
@@ -18,13 +18,13 @@ secure_file_sharing/
 
 ---
 
-## 🔧 Features
+## Features
 
-- 📤 Secure file upload with AES encryption (AES-256 in CBC mode)  
-- 🔐 Unique random key and IV generated for each file  
-- 🔑 Downloadable encryption key for secure key management  
-- 📥 Secure file download with automatic decryption  
-- 🧼 Auto-deletion of decrypted files after download for enhanced security  
+-  Secure file upload with AES encryption (AES-256 in CBC mode)  
+-  Unique random key and IV generated for each file  
+- Downloadable encryption key for secure key management  
+- Secure file download with automatic decryption  
+-  Auto-deletion of decrypted files after download for enhanced security  
 
 ---
 
@@ -45,7 +45,7 @@ python app.py
 Open your browser and go to:
 http://127.0.0.1:5000
 
-🔐 Encryption Details
+Encryption Details
 Algorithm: AES (Advanced Encryption Standard)
 
 Mode: CBC (Cipher Block Chaining)
